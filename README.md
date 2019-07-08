@@ -68,6 +68,8 @@ Comunicaciones via radio entre distintas micro:bits
 
 25 (5x5) leds programables individualmente
 
+![leds](./images/scroll-hello.gif)
+
 ### Programación
 
 [Revisión sobre las diferentes plataformas](https://hackaday.com/2017/12/02/exploring-the-bbc-microbit-software-stack/)
@@ -133,6 +135,7 @@ http://www.instructables.com/id/Remote-Controlled-micro:bit-Robot/
 
 25 (5x5) leds programables individualmente
 
+![leds](./images/scroll-hello.gif)
 
 ### Entorno de Programación
 
