@@ -137,7 +137,7 @@ Se puede programar con bloques, javascript, python, C++ de Arduino...
 
 # Programación con bloques https://makecode.microbit.org/
 
-El simulador es interactivo y cambia la imagen del simulador a medida que usamos diferentes bloques
+El **simulador** es interactivo y cambia la imagen del simulador a medida que usamos diferentes bloques
 
 Los programas se guardan por defecto en nuestro navegador
 
@@ -152,26 +152,29 @@ La pantalla:
 
 ![inicio](./images/Incio_bloques.png)
 
-Añadir nuestros bloques en onStart (para que se ejecute al principio) o forever (para que se ejecute repetitivamente)
+Añadir nuestros bloques en **onStart** (para que se ejecute al principio) o **forever** (para que se ejecute repetitivamente)
 
-EJEMPLO [HOLA MUNDO](https://makecode.microbit.org/_MfyHdrLXVWqL)
+## EJEMPLO [HOLA MUNDO](https://makecode.microbit.org/_MfyHdrLXVWqL)
 
 ![HolaMundo](./images/HolaMundo.png)
 
-Podemos cambiar el nombre
+Podemos cambiar el nombre del programa
  
-Una vez que tenemos un programa vamos a reprogramar la Microbit
+Una vez que tenemos un programa vamos a **reprogramar** la Microbit
 
-1. Conectamos el microbit
-1. Aparece una unidad llamada Microbit
-1. Descargamos el programa
-1. Lo copiamos a la unidad Microbit (veremos como parpadea el led naranja)
+1. **Conectamos** el microbit
+1. Aparece la **unidad Microbit**
+1. **Descargamos** el programa
+1. Lo **copiamos** a la unidad Microbit (veremos como parpadea el led naranja)
 (En un tablet o móvil necesitaremos un cable OTG)
+
+Podemos **compartirlo**
+
+
+## EJEMPLO de temperatura
 
 Usamos el sensor de temperatura (que está en la CPU con lo que no es muy preciso)
 
-
-EJEMPLO de temperatura
 1. Mostrar temperatura
 1. Mostrar la temperatura en forma de barra
 
