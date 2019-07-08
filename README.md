@@ -21,21 +21,21 @@
 
 # BBC-micro:bit IronMan way
 
-![micro:bit front](http://microbit.org/images/micro:bit-front.png)
-![micro:bit back](http://microbit.org/images/micro:bit-back.png)
+![micro:bit front](http://microbit.org/images/microbit-front.png)
+![micro:bit back](http://microbit.org/images/microbit-back.png)
 
 [Fundación micro:bit](http://microbit.org/es/)
 
-[micro:bit es totalmente opensource](https://www.micro:bit.co.uk/open_source)
+[micro:bit es totalmente opensource](https://www.microbit.co.uk/open_source)
 
-[Github de micro:bit](https://github.com/bbcmicro:bit)
+[Github de micro:bit](https://github.com/bbcmicrobit)
 
 ### [Hardware](http://microbit.org/es/hardware/) [micro:bit](https://en.wikipedia.org/wiki/Micro_Bit#Hardware)
 
-![hardware](http://microbit.org/images/micro:bit-hardware.png)
-![pinout](https://cdn-blog.adafruit.com/uploads/2017/03/micro:bit_pinout_v10.png)
+![hardware](http://microbit.org/images/microbit-hardware.png)
+![pinout](https://cdn-blog.adafruit.com/uploads/2017/03/microbit_pinout_v10.png)
 
-![pinout2](https://microbit.org/images/micro:bit-pins.jpg)
+![pinout2](https://microbit.org/images/microbit-pins.jpg)
 
 #### [Alimentación](https://support.microbit.org/support/solutions/articles/19000013982-how-do-i-power-my-micro-bit-)
 
@@ -61,7 +61,7 @@ ARM M0 (Nordic nRF51822 – 16 MHz 32-bit ARM Cortex-M0 microcontroller 32 bits)
 
 Comunicaciones via radio entre distintas micro:bits
 
-[App micro:bit](https://play.google.com/store/apps/details?id=com.samsung.micro:bit&hl=es) Nos permite interaccionar con la placa e incluso programarla
+[App micro:bit](https://play.google.com/store/apps/details?id=com.samsung.microbit&hl=es) Nos permite interaccionar con la placa e incluso programarla
 
 
 #### Leds
@@ -70,13 +70,13 @@ Comunicaciones via radio entre distintas micro:bits
 
 ### Programación
 
-[Revisión sobre las diferentes plataformas](https://hackaday.com/2017/12/02/exploring-the-bbc-micro:bit-software-stack/)
+[Revisión sobre las diferentes plataformas](https://hackaday.com/2017/12/02/exploring-the-bbc-microbit-software-stack/)
 
 [Programando con bloques](https://pxt.microbit.org/?lang=es)
 
 [Programando en python](http://python.microbit.org/)
 
-[Python en Mibrobit](https://www.python.org/community/micro:bit/)
+[Python en Mibrobit](https://www.python.org/community/microbit/)
 
 [Programando con el IDE de Arduino](https://learn.adafruit.com/use-micro-bit-with-arduino?view=all)
 
