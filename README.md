@@ -15,7 +15,7 @@
 |||
 |---|---|
 |![ironman.gif](./images/functional-iron-man-suit1.gif)|![capitanamerica.gif](./images/capitanamerica.gif)
-|IronMan way|America Captain Way|
+|--IronMan way--|--America Captain Way--|
 
 ------
 
