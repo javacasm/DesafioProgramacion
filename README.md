@@ -12,9 +12,9 @@
 
 ## ¿Cómo ves la tecnología?
 
-|IronMan way|America Captain Way|
+|[IronMan way](https://github.com/javacasm/DesafioProgramacion#bbc-microbit-ironman-way)|[America Captain Way](https://github.com/javacasm/DesafioProgramacion#microbit-america-captain-way)|
 |:---:|:---:|
-|![ironman.gif](./images/functional-iron-man-suit1.gif)|![capitanamerica.gif](./images/capitanamerica.gif)
+|[![ironman.gif](./images/functional-iron-man-suit1.gif)](https://github.com/javacasm/DesafioProgramacion#bbc-microbit-ironman-way)|[![capitanamerica.gif](./images/capitanamerica.gif)](https://github.com/javacasm/DesafioProgramacion#microbit-america-captain-way)
 
 
 ------
