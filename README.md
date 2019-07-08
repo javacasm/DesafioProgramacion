@@ -8,11 +8,16 @@
 
 ![/images/Licencia_CC.png](./images/Licencia_CC.png)
 
-## ¿Cómo vemos la tecnología?
+(ejemplos tomados de la charla de Lorenzo Olmo del Club de Robótica de Granada)
+
+## ¿Cómo ves la tecnología?
 
 |||
 |---|---|
 |![ironman.gif](./images/functional-iron-man-suit1.gif)|![capitanamerica.gif](./images/capitanamerica.gif)
+|IronMan way|America Captain Way|
+
+------
 
 # BBC-micro:bit IronMan way
 
