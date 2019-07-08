@@ -12,10 +12,10 @@
 
 ## ¿Cómo ves la tecnología?
 
-|||
+|IronMan way|America Captain Way|
 |:---:|:---:|
 |![ironman.gif](./images/functional-iron-man-suit1.gif)|![capitanamerica.gif](./images/capitanamerica.gif)
-|IronMan way|America Captain Way|
+
 
 ------
 
