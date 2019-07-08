@@ -14,23 +14,23 @@
 |---|---|
 |![ironman.gif](./images/functional-iron-man-suit1.gif)|![capitanamerica.gif](./images/capitanamerica.gif)
 
-# BBC-microbit IronMan way
+# BBC-micro:bit IronMan way
 
-![microbit front](http://microbit.org/images/microbit-front.png)
-![microbit back](http://microbit.org/images/microbit-back.png)
+![micro:bit front](http://microbit.org/images/micro:bit-front.png)
+![micro:bit back](http://microbit.org/images/micro:bit-back.png)
 
-[Fundación microbit](http://microbit.org/es/)
+[Fundación micro:bit](http://microbit.org/es/)
 
-[Microbit es totalmente opensource](https://www.microbit.co.uk/open_source)
+[micro:bit es totalmente opensource](https://www.micro:bit.co.uk/open_source)
 
-[Github de microbit](https://github.com/bbcmicrobit)
+[Github de micro:bit](https://github.com/bbcmicro:bit)
 
 ### [Hardware](http://microbit.org/es/hardware/) [micro:bit](https://en.wikipedia.org/wiki/Micro_Bit#Hardware)
 
-![hardware](http://microbit.org/images/microbit-hardware.png)
-![pinout](https://cdn-blog.adafruit.com/uploads/2017/03/microbit_pinout_v10.png)
+![hardware](http://microbit.org/images/micro:bit-hardware.png)
+![pinout](https://cdn-blog.adafruit.com/uploads/2017/03/micro:bit_pinout_v10.png)
 
-![pinout2](https://microbit.org/images/microbit-pins.jpg)
+![pinout2](https://microbit.org/images/micro:bit-pins.jpg)
 
 #### [Alimentación](https://support.microbit.org/support/solutions/articles/19000013982-how-do-i-power-my-micro-bit-)
 
@@ -54,9 +54,9 @@ ARM M0 (Nordic nRF51822 – 16 MHz 32-bit ARM Cortex-M0 microcontroller 32 bits)
 
 [Bluetooth](http://microbit.org/es/mobile/) de bajo consumo
 
-Comunicaciones via radio entre distintas microbits
+Comunicaciones via radio entre distintas micro:bits
 
-[App microbit](https://play.google.com/store/apps/details?id=com.samsung.microbit&hl=es) Nos permite interaccionar con la placa e incluso programarla
+[App micro:bit](https://play.google.com/store/apps/details?id=com.samsung.micro:bit&hl=es) Nos permite interaccionar con la placa e incluso programarla
 
 
 #### Leds
@@ -65,13 +65,13 @@ Comunicaciones via radio entre distintas microbits
 
 ### Programación
 
-[Revisión sobre las diferentes plataformas](https://hackaday.com/2017/12/02/exploring-the-bbc-microbit-software-stack/)
+[Revisión sobre las diferentes plataformas](https://hackaday.com/2017/12/02/exploring-the-bbc-micro:bit-software-stack/)
 
 [Programando con bloques](https://pxt.microbit.org/?lang=es)
 
 [Programando en python](http://python.microbit.org/)
 
-[Python en Mibrobit](https://www.python.org/community/microbit/)
+[Python en Mibrobit](https://www.python.org/community/micro:bit/)
 
 [Programando con el IDE de Arduino](https://learn.adafruit.com/use-micro-bit-with-arduino?view=all)
 
@@ -81,7 +81,7 @@ Comunicaciones via radio entre distintas microbits
 
 [Revendedores](http://microbit.org/es/resellers/)
 
-[También en Amazon](https://www.amazon.es/BBC-MB80-Micro-Bit/dp/B01G8WUGWU/ref=sr_1_2?ie=UTF8&qid=1492513787&sr=8-2&keywords=microbit)
+[También en Amazon](https://www.amazon.es/BBC-MB80-Micro-Bit/dp/B01G8WUGWU/ref=sr_1_2?ie=UTF8&qid=1492513787&sr=8-2&keywords=micro:bit)
 
 
 ### Complementos/shields
@@ -90,7 +90,7 @@ Comunicaciones via radio entre distintas microbits
 
 ### Robots
 
-http://www.instructables.com/id/Remote-Controlled-Microbit-Robot/
+http://www.instructables.com/id/Remote-Controlled-micro:bit-Robot/
 
 ![robot](https://cdn.instructables.com/F0W/1HA0/J30ST2ON/F0W1HA0J30ST2ON.LARGE.jpg)
 
@@ -113,7 +113,7 @@ http://www.instructables.com/id/Remote-Controlled-Microbit-Robot/
 
 [Nice review](https://www.youtube.com/watch?v=7qnSsc54bEQ)
 
-# Microbit America Captain way
+# micro:bit America Captain way
 
 #### [Sensores](https://microbit.org/guide/features/)
 
@@ -160,12 +160,12 @@ Añadir nuestros bloques en **onStart** (para que se ejecute al principio) o **f
 
 Podemos cambiar el nombre del programa
  
-Una vez que tenemos un programa vamos a **reprogramar** la Microbit
+Una vez que tenemos un programa vamos a **reprogramar** la micro:bit
 
-1. **Conectamos** el microbit
-1. Aparece la **unidad Microbit**
+1. **Conectamos** el micro:bit
+1. Aparece la **unidad micro:bit**
 1. **Descargamos** el programa
-1. Lo **copiamos** a la unidad Microbit (veremos como parpadea el led naranja)
+1. Lo **copiamos** a la unidad micro:bit (veremos como parpadea el led naranja)
 (En un tablet o móvil necesitaremos un cable OTG)
 
 Podemos **compartirlo**
