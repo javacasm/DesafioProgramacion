@@ -113,6 +113,22 @@ http://www.instructables.com/id/Remote-Controlled-Microbit-Robot/
 
 [Nice review](https://www.youtube.com/watch?v=7qnSsc54bEQ)
 
+# Microbit
+
+#### [Sensores](https://microbit.org/guide/features/)
+
+* Acelerómetro
+* Brújula
+* Sensor de temperatura está en la CPU (https://microbit.org/es/guide/temperature/)
+* 2 Botones
+* 3 entradas analógicas (0,1,2)
+* 20 pines I/O
+
+#### Leds
+
+25 (5x5) leds programables individualmente
+
+
 ### Entorno de Programación
 
 No necesitamos instalar nada, funciona via web y en tablet/móviles  
@@ -169,8 +185,6 @@ EJEMPLO: Control de iluminación digital y analógico
 [Control de iluminación](https://makecode.microbit.org/_YqD3MePtK6gU)
 
 ![Control iluminación](./images/ControlIluminacion.png)
-
-
 
 [Control de iluminación II](https://makecode.microbit.org/_7ayKTtKvXFcc)
 
