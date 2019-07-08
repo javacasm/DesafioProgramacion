@@ -154,7 +154,7 @@ La pantalla:
 
 Añadir nuestros bloques en **onStart** (para que se ejecute al principio) o **forever** (para que se ejecute repetitivamente)
 
-## EJEMPLO [HOLA MUNDO](https://makecode.microbit.org/_MfyHdrLXVWqL)
+## Ejemplo [HOLA MUNDO](https://makecode.microbit.org/_MfyHdrLXVWqL)
 
 ![HolaMundo](./images/HolaMundo.png)
 
@@ -171,7 +171,7 @@ Una vez que tenemos un programa vamos a **reprogramar** la Microbit
 Podemos **compartirlo**
 
 
-## EJEMPLO de temperatura
+## Ejemplo de temperatura
 
 Usamos el sensor de temperatura (que está en la CPU con lo que no es muy preciso)
 
@@ -182,33 +182,44 @@ Usamos el sensor de temperatura (que está en la CPU con lo que no es muy precis
 
 ![ControlTemperatura](./images/ControlTemperatura.png)
 
-EJEMPLO: Control de iluminación digital y analógico
+Ejemplo: Control de iluminación digital y analógico
 
 
-[Control de iluminación](https://makecode.microbit.org/_YqD3MePtK6gU)
+[Medimos y mostramos el nivel de iluminación](https://makecode.microbit.org/_YqD3MePtK6gU)
 
 ![Control iluminación](./images/ControlIluminacion.png)
 
-[Control de iluminación II](https://makecode.microbit.org/_7ayKTtKvXFcc)
 
-![ControlIluminacionII](./images/ControlIluminacionII.png)
-
-[ControlIluminacion III](https://makecode.microbit.org/_TVJAFy9mjJ3Y)
+[Control digital de la iluminación](https://makecode.microbit.org/_TVJAFy9mjJ3Y)
 
 ![ControlIluminacion2](./images/ControlIluminacionIII.png)
 
+[Control analógico de iluminación](https://makecode.microbit.org/_7ayKTtKvXFcc)
+
+![ControlIluminacionII](./images/ControlIluminacionII.png)
+
 ## Eventos
+
+#### ¿Qué es un evento?
 
 Pulsaciones de botones o cambios de pines, agitado
 
-EJEMPLO: [¿a quién le toca?](https://makecode.microbit.org/_f9EhoRAp1eoR)
-* boton A incrementa
-* B decrementa 
-* agitado pone número aleatorio
+### Ejemplo: [¿a quién le toca?](https://makecode.microbit.org/_f9EhoRAp1eoR)
+* Botón A incrementa
+* Botón B decrementa 
+* Agitando pone número aleatorio
 
 ![A quien le toca](./images/AquienLeToca.png)
 
 ## Juegos
+
+#### Ejemplo: [piedra, papel o tijera](https://makecode.microbit.org/_0Xi5xA7gweK5)
+
+![Piedra Papel Tijera](./images/PiedraPapelTijera.png)
+
+#### Ejercicio: dado digital
+
+### Juegos semiprofesionales
 
 Hay una paleta de juegos que incluyen sprites, puntuaciones, etc
 
@@ -217,21 +228,16 @@ Los leds se direccionan así
 ...          ...
 (0,4) ..... (4,4)
 
-EJEMPLO: marcianitos simples
-
-EJEMPLO: [piedra, papel o tijera](https://makecode.microbit.org/_0Xi5xA7gweK5)
-
-![Piedra Papel Tijera](./images/PiedraPapelTijera.png)
-
-EJEMPLO: dado digital
+#### Ejemplo: marcianitos simples
 
 ### Extensiones
 
 Permiten usar extensiones que añaden más bloques 
 
 
-PROYECTO termostato: los botones fijan la temperatura objetivo y la otra barra nos muestra la temperatura actual
+### Proyectos
+* Proyecto termostato: los botones fijan la temperatura objetivo y la otra barra nos muestra la temperatura actual
 
-PROYECTO maquinilla de numeros (innalámbrica)
+* Proyecto maquinilla de numeros (innalámbrica)
 
     
