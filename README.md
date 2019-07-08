@@ -10,11 +10,9 @@
 
 ## ¿Cómo vemos la tecnología?
 
-![ironman.gif](./images/ironman.gif)
-
-# ó
-
-![capitanamerica.gif](./images/capitanamerica.gif)
+|||
+|---|---|
+|![ironman.gif](./images/ironman.gif)|![capitanamerica.gif](./images/capitanamerica.gif)
 
 # BBC-microbit
 
